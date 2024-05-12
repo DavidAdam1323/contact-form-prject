@@ -47,3 +47,13 @@ label {
   color: #fff;
   cursor: text;
 }
+
+button {
+  padding: 10px 0;
+  color: #fff;
+  outline: none;
+  background: transparent;
+  border: 1px solid #fff;
+  width: 100%;
+  cursor: pointer;
+}
