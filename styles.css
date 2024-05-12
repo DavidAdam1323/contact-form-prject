@@ -12,4 +12,12 @@
     url(landscape.jpg);
   background-position: center;
   background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+form {
+  width: 90%;
+  max-width: 600px;
 }
